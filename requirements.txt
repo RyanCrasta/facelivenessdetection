@@ -7,7 +7,6 @@ imutils==0.5.4
 numpy==1.19.5
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
-cmake==3.18.4.post1
 Pillow==8.1.0
 scipy==1.2.0
 tqdm==4.56.0
@@ -17,4 +16,3 @@ tensorflow==2.4.1
 tensorflow-estimator==2.4.0
 tensorflow-hub==0.9.0
 tensorflowjs==3.0.0
-dlib==19.21.1
