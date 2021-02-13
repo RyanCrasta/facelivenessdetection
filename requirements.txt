@@ -1,5 +1,5 @@
 Flask==1.1.2
-opencv-contrib-python-headless
+opencv-python-headless==4.2.0.32
 face-recognition==1.3.0
 face-recognition-models==0.3.0
 imutils==0.5.4
