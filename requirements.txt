@@ -3,6 +3,7 @@ numpy==1.19.5
 imutils==0.5.4
 opencv-python-headless
 scipy==1.2.0
+TensorFlow==2.2
 Keras==2.4.3
 tqdm==4.56.0
 Flask==1.1.2
